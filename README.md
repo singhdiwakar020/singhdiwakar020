@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhdiwakar020&label=Profile%20views&color=0e75b6&style=flat" alt="singhdiwakar020" /> </p>
 
-- 🔭 I’m currently working on **EV,s Finance And Loaning**
+- 🔭 I’m currently working on **Electric Vehicle Finance By using GPS DATA**
 
 - 🌱 I’m currently learning **Al & ML on Almabetter.**
 
